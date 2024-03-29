@@ -1,6 +1,6 @@
-# Speaker Queue Component
+# Speaker Queue 
 
-The Speaker Queue component is a React user interface component that organizes a set of participants who are ready to speak into a queue. It allows participants to raise their hands and be added to the queue.
+The Speaker Queue  is a React user interface component that organizes a set of participants who are ready to speak into a queue. It allows participants to raise their hands and be added to the queue.
 
 ### Features
 Manage a queue of participants with raised hands.
