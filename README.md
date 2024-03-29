@@ -14,7 +14,7 @@ Display the order in which participants raised their hands.
 ```
 
 
-![Speaker Queue](images/Capture1.PNG)
-![Speaker Queue](images/Capture2.PNG)
+(images/Capture1.PNG)
+(images/Capture2.PNG)
 ![Speaker Queue](images/Capture3.PNG)
 
